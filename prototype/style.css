@@ -1,11 +1,23 @@
+header {
+  font-size: 2em;
+  padding: 1em;
+  color: black;
+  background-color: lightblue;
+
+}
+
+
+
+
 body {
   max-width: 1000px;
   padding: 1em;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  background-color: lightblue;
 }
 
 div, section, main, aside, header, footer {
-  border: 1px solid lightgray;
+  border: 1px solid lightblue;
   padding: .5em;
   margin-bottom: 1em;
 }
