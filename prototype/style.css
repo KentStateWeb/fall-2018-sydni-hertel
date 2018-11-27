@@ -1,16 +1,12 @@
 
-font-family: 'Noto Sans KR', sans-serif;
-font-family: 'Pathway Gothic One', sans-serif;
+{font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;}
+.color-1 {color: #a3d1e4;}.color-2 {color: #ffffff;}.color-3 {color: #338eb2;}.color-4 {color: #a3cd67;}.color-5 {color: #DAF7A6;}.color-6 {color: #035d95;}
 header {
   font-size: 2em;
   padding: 1em;
   color: black;
-
-
 }
-
-
-
 
 body {
   max-width: 1000px;
@@ -20,7 +16,7 @@ body {
 }
 
 div, section, main, aside, header, footer {
-  border: 1px solid lightblue;
+  border: 1px solid ;
   padding: .5em;
   margin-bottom: 1em;
 }
