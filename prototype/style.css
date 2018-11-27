@@ -1,3 +1,5 @@
+
+
 header {
   font-size: 2em;
   padding: 1em;
@@ -12,8 +14,9 @@ header {
 body {
   max-width: 1000px;
   padding: 1em;
-  font-family: Arial, sans-serif;
-  background-color: lightblue;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Pathway Gothic One', sans-serif;
+
 }
 
 div, section, main, aside, header, footer {
