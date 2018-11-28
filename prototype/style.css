@@ -40,4 +40,5 @@ a:link {
   nav ul{
 		display:flex;
 		justify-content:space-evenly;
+    align: center;
 	}
