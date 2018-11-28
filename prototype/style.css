@@ -5,7 +5,7 @@
 /* Main information */
 
 body {
-  max-width: 1000px;
+  max-width: 1500px;
   margin: 0;
 }
 
@@ -41,5 +41,3 @@ a:link {
 		display:flex;
 		justify-content:space-evenly;
 	}
-
-  
