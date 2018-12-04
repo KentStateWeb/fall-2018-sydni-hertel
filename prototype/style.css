@@ -5,7 +5,7 @@
 /* Main information */
 
 body {
-  max-width: 1500px;
+  max-width: 1000px;
   margin: 0;
 }
 
@@ -36,6 +36,8 @@ text-align:center;
 
 a:link {
     color: rgb(218, 247, 166);
+  }
+  a:visited {rgb(218, 247, 166)
   }
 @media only screen and (min-width : 420px) {
   nav ul{
