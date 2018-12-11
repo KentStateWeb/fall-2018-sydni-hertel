@@ -4,8 +4,13 @@ a
 
 
 /* Main information */
-h2 {
-  color: white;
+p {
+  color:rgb(3, 93, 149);
+}
+
+h1, h2, h3 {
+  align: center;
+  color: rgb(3, 93, 149);
   font-family: 'Noto Sans KR', sans-serif;
     font-family: 'Pathway Gothic One', sans-serif;
 }
@@ -15,6 +20,7 @@ body {
 
 ul{
   list-style-type: none;
+  color: rgb(3, 93, 149);
 }
 /*Footer*/
 footer{
@@ -63,12 +69,28 @@ a {
 
 }
 
- {
+.section1 {
   width: 300px;
-  border: 25px solid green;
+  border: rgb(218, 247, 166);
+  background-color:rgb(163, 205, 103);
   padding: 25px;
   margin: 25px;
 }
+.section2 {
+  width: 300px;
+  border: rgb(218, 247, 166);
+  background-color:rgb(163, 205, 103);
+  padding: 25px;
+  margin: 25px;
+}
+.section3 {
+  width: 300px;
+  border: rgb(218, 247, 166);
+  background-color:rgb(163, 205, 103);
+  padding: 25px;
+  margin: 25px;
+}
+
 
 .flickity-enabled {
   position: relative;
