@@ -155,17 +155,18 @@ text-align: center;
   margin: 10px;
   display: flex;
 }
-}
+
 .services-all {
 		display:flex;
     align: center;
     justify-content:space-evenly;
 
-
+}}
 .phonenumbercall1{
   color:rgb(218, 247, 166);
 align: center;
-}}
+}
+
 .location{
 text-align: center;
 display: inline-block;
