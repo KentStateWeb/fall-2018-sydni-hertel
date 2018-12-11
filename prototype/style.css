@@ -55,9 +55,11 @@ body{
 .background-image{
   background-repeat: no-repeat;
   background-attachment: fixed;
+  max-width: 50%;
+  max-height: 50%;
 }
 
-@media only screen and (min-width : 200px) {
+@media only screen and (min-width : 600px) {
 .reviews{
   width: 1000px;
   border: rgb(218, 247, 166);
