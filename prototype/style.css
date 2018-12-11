@@ -50,9 +50,10 @@ header {
 background-color: rgb(3, 93, 149);
 }
 
-ul{list-style-type: none;
+ul{
+list-style-type: none;
 text-align:center;
-	padding:5px;}
+padding:5px;}
 
 a {
     color: rgb(218, 247, 166);
@@ -78,7 +79,7 @@ a {
     transition: .3s background-color ease-in-out;
 
 }
-
+/* Div class services boxes */
 .services-section1 {
   width: 300px;
   border: rgb(218, 247, 166);
@@ -106,6 +107,10 @@ a {
   background-color:rgb(163, 205, 103);
   padding: 25px;
   margin: 25px;
+}
+.services-all {
+  display: inline-block;
+
 }
 
 
