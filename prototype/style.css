@@ -79,7 +79,7 @@ color: rgb(218, 247, 166);
 text-align: center;
   }
 
-@media only screen and (min-width : 0px) {
+@media only screen and (min-width : 200px) {
   nav ul{
 		display:flex;
 		justify-content:space-evenly;
