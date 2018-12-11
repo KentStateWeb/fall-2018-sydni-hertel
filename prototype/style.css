@@ -59,9 +59,9 @@ body{
   max-height: 50%;
 }
 
-@media only screen and (min-width : 600px) {
+@media only screen and (min-width : 200px) {
 .reviews{
-  width: 1000px;
+  width: 600px;
   border: rgb(218, 247, 166);
   background-color:rgb(163, 205, 103);
 align: inline;
