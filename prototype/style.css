@@ -52,12 +52,22 @@ body{
 }
 
 
-background-image{
+.background-image{
   background-repeat: no-repeat;
   background-attachment: fixed;
-
-
 }
+
+@media only screen and (min-width : 200px) {
+.reviews{
+  width: 100px;
+  border: rgb(218, 247, 166);
+  background-color:rgb(163, 205, 103);
+align: center;
+margin: 2em;
+padding: 2em;
+}
+
+
 ul{
   list-style-type: none;
   color: rgb(3, 93, 149);
